@@ -15,7 +15,7 @@ public class PIL2JAVA {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Lert's rock this bitch");
     }
     
 }
